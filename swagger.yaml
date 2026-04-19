@@ -1,4 +1,4 @@
-  : 3.0.0
+openapi: 3.0.0
 info:
     title: Node MySQL API
     description: Node.js + MySQL - API with email sign-up, verification, authentication and forgot password
